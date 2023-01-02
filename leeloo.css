@@ -32,35 +32,35 @@ nav {
 
 .dim {
   background: #111;
-  color: seashell;
+  color: orange;
 }
 
 .lit {
-  background: seashell;
+  background: orange;
   color: #111;
 }
 
 @media (prefers-color-scheme: dark) {
   .reflect {
     background: #111;
-    color: seashell;
+    color: orange;
   }
 
   .absorb {
-    background: seashell;
+    background: orange;
     color: #111;
   }
 }
 
 @media (prefers-color-scheme: light) {
   .reflect {
-    background: seashell;
+    background: orange;
     color: #111;
   }
 
   .absorb {
     background: #111;
-    color: seashell;
+    color: orange;
   }
 }
 
